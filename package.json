@@ -1,0 +1,9 @@
+{
+  "name": "react-mjg",
+  "version": "1.0.0",
+  "description": "a react demo",
+  "main": "index.js",
+  "repository": "https://github.com/jianfenkezhan/react-mjg.git",
+  "author": "jianguo.mu <980751937mu@gmail.com>",
+  "license": "MIT"
+}
