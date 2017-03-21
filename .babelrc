@@ -1,0 +1,16 @@
+{
+  "presets": [
+    [
+      "es2015",
+      {
+        "modules": false
+      }
+    ],
+    "stage-2",
+    "react"
+  ],
+  "plugins": [
+    // 开启 react 代码的模块热替换(HMR)
+    "react-hot-loader/babel"
+  ]
+}
